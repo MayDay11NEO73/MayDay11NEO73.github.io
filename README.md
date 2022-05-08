@@ -6,7 +6,7 @@ class unit
 
 [the latest 版本](ccau 1.3.7.rar)
 
-[通用版](mayday11neo73.github.io/ccauty)
+[通用版](ccauty.html)
 
 
 
