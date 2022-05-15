@@ -4,7 +4,7 @@ download ccau
 
 class unit
 
-[the latest 版本](ccau 1.3.7.rar)
+[the latest 版本](ccau 1.4.1.rar)1.4.1
 
 [通用版下载](ccauty.html)
 
