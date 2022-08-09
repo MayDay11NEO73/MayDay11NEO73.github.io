@@ -8,7 +8,7 @@ class unit
 
 [通用版下载](ccauty.html)
 
-[备用程序](ccau1.4.1exe)
+[备用程序](ccau1.4.1.rar)
 
 [英语答案](20226290010.jpg)
 
