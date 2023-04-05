@@ -4,7 +4,7 @@ download ccau
 
 class unit
 
-[the latest 版本](ccau1.5.1.rar)1.5.1
+[the latest 版本](ccau1.6.1 -2.zip)1.6.1
 
 [通用版下载](ccauty.html)
 
@@ -13,7 +13,7 @@ class unit
 [英语答案](20226290010.jpg)
 
 
-每日金句：表白一下我们数学老师陈姝
+每日金句：表白一下数学老师俞大明
          真的太可爱啦 而且教的又好
          
          powered by zjr
