@@ -4,7 +4,8 @@ download ccau
 
 class unit
 
-[the latest 版本](ccau1.6.1 -2.zip)1.6.1
+[the latest 版本](https://MayDay11NEO73.github.io/ccau1.6.1 -2.zip)
+
 
 [通用版下载](ccauty.html)
 
