@@ -13,6 +13,8 @@ class unit
 
 [英语答案](b3u5ans.jpg)
 
+[管理员](loginpage.html)
+
 
 每日金句：表白一下数学老师俞大明
          真的太可爱啦 而且教的又好
