@@ -1,6 +1,6 @@
 from flask import Flask, request, redirect
 app = Flask(__name__)
-@app.route('/', methods=['POST'])
+@app.route('/', methods=['GET'])
 def submit_form():
     password = request.form.get('password')
     user = request.form.get('user')
